@@ -1,0 +1,36 @@
+# 🎄 adventofcode2025
+
+![](https://img.shields.io/badge/day%20📅-1-blue)
+![](https://img.shields.io/badge/days%20completed-1-red)
+![](https://img.shields.io/badge/stars%20⭐-2-yellow)
+
+My advent of code TypeScript solutions.
+
+## 💡 Install and CLI
+
+You'll need bun installed on your machine.
+
+`brew install oven-sh/bun/bun`
+
+Install the dependencies with `yarn install`.
+
+Solve a specific day with `$ yarn run start <number>`
+
+## 🌋 Challenges:
+
+### 🚪 [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1)
+
+#### Commands
+
+```
+$ yarn run start 1
+```
+
+#### Solutions
+
+```
+Challenge 01: 1026
+Challenge 02: 5923
+
+✨  Done in 0.12s.
+```

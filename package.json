@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode2025",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "bun test src/index.test.ts",
+    "start": "bun src/index.ts",
+    "start:dev": "bun --watch src/index.ts",
+    "init-day": "bun src/scripts/initNewDay/initNewDay.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  }
+}
