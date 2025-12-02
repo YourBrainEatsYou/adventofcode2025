@@ -23,7 +23,7 @@ Solve a specific day with `$ yarn run start <number>`
 #### Commands
 
 ```
-$ yarn run start 1
+$ yarn start 2
 ```
 
 #### Solutions
@@ -33,4 +33,21 @@ Challenge 01: 1026
 Challenge 02: 5923
 
 ✨  Done in 0.12s.
+```
+
+### 🎁 [Day 2: Gift Shop](https://adventofcode.com/2025/day/2)
+
+#### Commands
+
+```
+$ yarn start 2
+```
+
+#### Solutions
+
+```
+Challenge 01: 18700015741
+Challenge 02: 20077272987
+
+✨  Done in 0.46s.
 ```
