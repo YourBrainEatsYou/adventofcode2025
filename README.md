@@ -51,3 +51,20 @@ Challenge 02: 20077272987
 
 ✨  Done in 0.46s.
 ```
+
+### 🪫 [Day 3: Lobby](https://adventofcode.com/2025/day/3)
+
+#### Commands
+
+```
+$ yarn start 3
+```
+
+#### Solutions
+
+```
+Challenge 01: 17107
+Challenge 02: 169349762274117
+
+✨  Done in 0.04s.
+```
