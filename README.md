@@ -68,3 +68,20 @@ Challenge 02: 169349762274117
 
 ✨  Done in 0.04s.
 ```
+
+### 🗞️ [Day 4: Printing Department](https://adventofcode.com/2025/day/4)
+
+#### Commands
+
+```
+$ yarn start 4
+```
+
+#### Solutions
+
+```
+Challenge 01: 1569
+Challenge 02: 9280
+
+✨  Done in 0.05s.
+```
