@@ -85,3 +85,20 @@ Challenge 02: 9280
 
 ✨  Done in 0.05s.
 ```
+
+### 🥬 [Day 5: Cafeteria](https://adventofcode.com/2025/day/5)
+
+#### Commands
+
+```
+$ yarn start 5
+```
+
+#### Solutions
+
+```
+Challenge 01: 674
+Challenge 02: 352509891817881
+
+✨  Done in 0.05s.
+```
