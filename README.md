@@ -102,3 +102,20 @@ Challenge 02: 352509891817881
 
 ✨  Done in 0.05s.
 ```
+
+### 🗑️ [Day 6: Trash Compactor](https://adventofcode.com/2025/day/6)
+
+#### Commands
+
+```
+$ yarn start 6
+```
+
+#### Solutions
+
+```
+Challenge 01: 4722948564882
+Challenge 02: 9581313737063
+
+✨  Done in 0.05s.
+```
