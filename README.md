@@ -119,3 +119,20 @@ Challenge 02: 9581313737063
 
 ✨  Done in 0.05s.
 ```
+
+### 🛸 [Day 7: Laboratories](https://adventofcode.com/2025/day/7)
+
+#### Commands
+
+```
+$ yarn start 7
+```
+
+#### Solutions
+
+```
+Challenge 01: 1499
+Challenge 02: 24743903847942
+
+✨  Done in 0.05s.
+```
