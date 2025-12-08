@@ -136,3 +136,20 @@ Challenge 02: 24743903847942
 
 ✨  Done in 0.05s.
 ```
+
+### 🎲 [Day 8: Playground](https://adventofcode.com/2025/day/8)
+
+#### Commands
+
+```
+$ yarn start 8
+```
+
+#### Solutions
+
+```
+Challenge 01: 131150
+Challenge 02: 2497445
+
+✨  Done in 0.47s.
+```
