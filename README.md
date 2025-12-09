@@ -153,3 +153,20 @@ Challenge 02: 2497445
 
 ✨  Done in 0.47s.
 ```
+
+### 🎭 [Day 9: Movie Theater](https://adventofcode.com/2025/day/9)
+
+#### Commands
+
+```
+$ yarn start 9
+```
+
+#### Solutions
+
+```
+Challenge 01: 4767418746
+Challenge 02: 1461987144
+
+✨  Done in 0.28s.
+```
