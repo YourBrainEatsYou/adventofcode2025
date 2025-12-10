@@ -170,3 +170,24 @@ Challenge 02: 1461987144
 
 ✨  Done in 0.28s.
 ```
+
+### 🏗️ [Day 10: Factory](https://adventofcode.com/2025/day/10)
+
+#### Commands
+
+```
+$ yarn day10
+```
+
+#### Solved
+
+Solved with the Z3-SMT Solver.
+
+#### Solutions
+
+```
+Challenge 01: 522
+Challenge 02: 18105
+
+✨  Done in 22.30s.
+```

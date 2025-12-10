@@ -24,4 +24,4 @@ const { first, second }: Puzzle = await import(
 );
 
 console.log(`Challenge 01: ${first(input)}`);
-console.log(`Challenge 02: ${second(input)}`);
+console.log(`Challenge 02: ${await second(input)}`);

@@ -6,6 +6,7 @@
   "scripts": {
     "test": "bun test src/index.test.ts",
     "start": "bun src/index.ts",
+    "day10": "node src/index.ts 10",
     "start:dev": "bun --watch src/index.ts",
     "init-day": "bun src/scripts/initNewDay/initNewDay.ts"
   },
@@ -13,5 +14,8 @@
   "devDependencies": {
     "@types/node": "^24.10.1",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "z3-solver": "^4.15.4"
   }
 }

@@ -6,7 +6,8 @@ import readFile from './utils/readFile.ts';
 describe('AoC test runner', () => {
   const dirs = readdirSync('./src/days', { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
-    .map((dirent) => dirent.name);
+    .map((dirent) => dirent.name)
+    .filter((directory) => directory !== '10');
 
   for (const day of dirs) {
     it(`Tests day ${day} 1`, async (t: TestContext) => {
