@@ -191,3 +191,24 @@ Challenge 02: 18105
 
 ✨  Done in 22.30s.
 ```
+
+### 🐛 [Day 11: Reactor](https://adventofcode.com/2025/day/11)
+
+#### Commands
+
+```
+$ yarn start 11
+```
+
+#### Solved
+
+Path-Finding with DFS and Memoization
+
+#### Solutions
+
+```
+Challenge 01: 640
+Challenge 02: 367579641755680
+
+✨  Done in 0.05s.
+```
