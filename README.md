@@ -212,3 +212,24 @@ Challenge 02: 367579641755680
 
 ✨  Done in 0.05s.
 ```
+
+### 🎄 [Day 12: Christmas Tree Farm](https://adventofcode.com/2025/day/12)
+
+#### Commands
+
+```
+$ yarn start 12
+```
+
+#### Solved
+
+why tho.... eventually if the square get too big, there is no need for micro management?
+
+#### Solutions
+
+```
+Challenge 01: 599
+Challenge 02: free
+
+✨  Done in 0.05s.
+```
